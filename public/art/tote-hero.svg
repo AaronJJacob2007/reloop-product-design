@@ -1,0 +1,11 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="320" height="300" viewBox="0 0 320 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Frame">
+<path id="Vector" d="M163.75 281.25C219.669 281.25 265 277.332 265 272.5C265 267.668 219.669 263.75 163.75 263.75C107.831 263.75 62.5 267.668 62.5 272.5C62.5 277.332 107.831 281.25 163.75 281.25Z" fill="#C8BDAB"/>
+<path id="Vector_2" d="M78.75 108.75H245L256.25 257.5C192.917 272.5 130 272.5 67.5 257.5L78.75 108.75Z" fill="#BCA787" stroke="#6B5740" stroke-width="2.5"/>
+<path id="Vector_3" d="M108.75 122.5V73.75C108.75 18.75 216.25 18.75 216.25 73.75V122.5" stroke="#6B5740" stroke-width="12.5"/>
+<path id="Vector_4" d="M108.75 122.5V73.75C108.75 18.75 216.25 18.75 216.25 73.75V122.5" stroke="#D3C3A9" stroke-width="7.5"/>
+<path id="Vector_5" d="M86.25 120L77.5 247.5M236.25 120L245 247.5M81.25 251.25C132.917 261.25 186.667 261.25 242.5 251.25" stroke="#E2D6BF" stroke-width="2.5" stroke-dasharray="3.75 3.75"/>
+<path id="Vector_6" d="M206.25 167.5H117.5V220H206.25V167.5Z" fill="#EDE6D7"/>
+<path id="Vector_7" d="M143.75 215L167.5 187.5M177.5 177.5C150 175 141.25 190 153.75 203.75C168.75 210 178.75 195 177.5 177.5Z" stroke="#245C3D" stroke-width="3.75"/>
+</g>
+</svg>
