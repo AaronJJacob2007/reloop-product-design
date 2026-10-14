@@ -1,6 +1,5 @@
-<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
-<g id="Frame">
-<path id="Vector" d="M13.3333 2C6 1.33333 2 4 2.66667 8.66667C3.33333 12.6667 8.66667 14 11.3333 10.6667C13.3333 8 13.3333 5.33333 13.3333 2Z" stroke="#245C3D" stroke-width="1.13333"/>
-<path id="Vector_2" d="M2 14L10 6" stroke="#245C3D" stroke-width="1.13333"/>
-</g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="168" height="120" viewBox="0 0 168 120"><rect width="168" height="120" rx="16" fill="#f6f8f3"/><title>ReLoop leaf loop</title><defs><mask id="vein"><rect width="168" height="120" fill="white"/><path transform="translate(14 96) scale(1 -1)" d="M12 52 C21 63 29 68 39 70" fill="none" stroke="black" stroke-width="1.8" stroke-linecap="round"/></mask></defs><g mask="url(#vein)"><g transform="translate(14 96) scale(1 -1)">
+<path d="M60 49 C45 70 21 65 10 50 C-3 33 4 9 23 5 C43 0 53 17 69 35 C84 54 94 67 113 61 C135 55 143 33 131 15 C119 -3 96 0 82 18" fill="none" stroke="#245c3d" stroke-width="5.8" stroke-linecap="round"/>
+<path d="M12 51 C9 72 28 84 48 72 C37 54 25 49 12 51" fill="#245c3d"/>
+
+</g></g></svg>

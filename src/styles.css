@@ -2085,3 +2085,9 @@ dialog p {
     padding-bottom: 0;
   }
 }
+
+/* Approved leaf-loop wordmark, shared by the website and installed PWA. */
+.wordmark { display: inline-flex; flex-shrink: 0; align-items: center; min-height: 44px; }
+.brand-logo { display: block; width: 138px; height: auto; }
+.commerce-footer .brand-logo { width: 180px; }
+@media (max-width: 767px) { .site-header .brand-logo { width: 126px; } }

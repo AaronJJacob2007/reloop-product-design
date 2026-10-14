@@ -107,7 +107,7 @@ export default function App() {
       </a>
       <header className="site-header">
         <Link className="wordmark" to="/" aria-label="ReLoop home">
-          reloop.
+          <img className="brand-logo" src="/brand/reloop-wordmark.svg" alt="ReLoop" width="365" height="118" />
         </Link>
         <nav className="desktop-nav" aria-label="Main navigation">
           <NavLink className="nav-link" to="/shop">
@@ -188,9 +188,8 @@ export default function App() {
       <footer className="site-footer commerce-footer">
         <div className="footer-grid">
           <section className="footer-brand" aria-label="ReLoop">
-            <Link className="wordmark" to="/">
-              <Leaf size={27} aria-hidden="true" />
-              reloop.
+            <Link className="wordmark" to="/" aria-label="ReLoop home">
+              <img className="brand-logo" src="/brand/reloop-wordmark-light.svg" alt="ReLoop" width="365" height="118" loading="lazy" />
             </Link>
             <p>
               Everyday essentials, thoughtfully chosen. Refill, reuse and make
