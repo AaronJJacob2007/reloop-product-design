@@ -4,7 +4,7 @@
 
 A responsive marketplace for sustainable everyday essentials, built with React and TypeScript. Includes an installable PWA, a photo-based product catalog and a complete simulated shopping journey.
 
-The approved brand uses a thin wordmark with a leaf-loop replacing the two adjacent o's. Shared SVG assets live in `public/brand/`; the same symbol supplies the favicon, regular and maskable PWA icons, and Apple touch icon. Use the light wordmark on dark backgrounds. Earlier design drafts are preserved in Figma.
+The leaf-loop identity appears across the site and its installable app icons. Brand assets are in `public/brand/`.
 
 [Live website](https://reloop-product-design.vercel.app) · [Editable Figma designs](https://www.figma.com/design/dheQsHggvMFP4XUWhjAURe?node-id=32-2)
 
